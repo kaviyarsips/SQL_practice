@@ -1,0 +1,7 @@
+INSERT INTO Student VALUES(1,'Sowmiya','CSE');
+INSERT INTO Student VALUES(2,'Tamilselvi','AI');
+INSERT INTO Student VALUES(3,'Yogalakshmi','ECE');
+
+INSERT INTO Marks VALUES(1,85);
+INSERT INTO Marks VALUES(2,90);
+INSERT INTO Marks VALUES(3,75);
